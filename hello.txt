@@ -12,5 +12,5 @@ hello git! hello shao!
 hello git! hello shao!
 hello git! hello shao!
 hello git! hello shao!
-hello git! hello shao! master test
-hello git! hello shao!
+hello git! hello shao! master text
+hello git! hello shao! hot-fix test
